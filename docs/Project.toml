@@ -1,0 +1,3 @@
+[deps]
+ChatTools = "73b6f413-8c59-437c-8b57-329bdbe43645"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
